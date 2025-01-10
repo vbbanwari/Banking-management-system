@@ -63,27 +63,14 @@ The Banking Management System is a project designed to replicate basic banking o
 ---
 
 ## Technologies Used
-- **Programming Languages:** Python, Java, C++ (select as per your preference).
+- **Programming Languages:**  C++ (select as per your preference).
 - **Database Management:** SQLite, MySQL, or PostgreSQL for storing account data.
 - **Version Control:** Git for managing source code.
 - **Development Tools:** IDEs like Visual Studio Code, IntelliJ IDEA, or Eclipse.
 
 ---
 
-## How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Install necessary dependencies (if applicable):
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python main.py
-   ```
-4. Follow the on-screen instructions to perform banking operations.
+instructions to perform banking operations.
 
 ---
 
@@ -98,14 +85,11 @@ Contributions are welcome! Follow these steps:
    ```bash
    git push origin feature-name
    ```
-4. Create a pull request.
+4. Create a pull request
 
----
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ## Contact
-For queries or suggestions, please reach out to [your-email@example.com].
+For queries or suggestions, please reach out to vikasbanwari320@gmail.com.
